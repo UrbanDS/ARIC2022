@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="01475ab0-f20f-4be0-ac76-67294ec66c95" name="Default Changelist" comment="typo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/call-for-papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/call-for-papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/committees.html" beforeDir="false" afterPath="$PROJECT_DIR$/committees.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers-submission.html" beforeDir="false" afterPath="$PROJECT_DIR$/papers-submission.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/registration.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +83,7 @@
       <workItem from="1632146210629" duration="766000" />
       <workItem from="1632257806308" duration="12000" />
       <workItem from="1634744006138" duration="1343000" />
+      <workItem from="1654617865994" duration="908000" />
     </task>
     <task id="LOCAL-00001" summary="add file">
       <created>1623712631916</created>
