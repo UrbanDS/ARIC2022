@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01475ab0-f20f-4be0-ac76-67294ec66c95" name="Default Changelist" comment="typo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/call-for-papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/call-for-papers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/committees.html" beforeDir="false" afterPath="$PROJECT_DIR$/committees.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers-submission.html" beforeDir="false" afterPath="$PROJECT_DIR$/papers-submission.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/registration.html" afterDir="false" />
-    </list>
+    <list default="true" id="01475ab0-f20f-4be0-ac76-67294ec66c95" name="Default Changelist" comment="update for 2022" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +74,7 @@
       <workItem from="1632146210629" duration="766000" />
       <workItem from="1632257806308" duration="12000" />
       <workItem from="1634744006138" duration="1343000" />
-      <workItem from="1654617865994" duration="908000" />
+      <workItem from="1654617865994" duration="1497000" />
     </task>
     <task id="LOCAL-00001" summary="add file">
       <created>1623712631916</created>
@@ -211,7 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632163635156</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update for 2022">
+      <created>1654618787549</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1654618787549</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update for 2022">
+      <created>1654619020728</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1654619020728</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +246,7 @@
     <MESSAGE value="update pc members" />
     <MESSAGE value="We are extending the paper submission deadline for the ARIC workshop to September 30th." />
     <MESSAGE value="typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="typo" />
+    <MESSAGE value="update for 2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for 2022" />
   </component>
 </project>
