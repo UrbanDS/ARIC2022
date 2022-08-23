@@ -1,12 +1,12 @@
 5th ACM SIGSPATIAL Workshop on Advances on Resilient and Intelligent Cities (ARIC 2022)
 
 ### Background
+
 This workshop will focus on the scientific methods that will enable the next-generation cities in line with
 the global decarbonization agenda and the post-COVI-19 world. With COVID-19 probable in the rear-view
 mirror, there is a heightened need for cities to be more resilience as global activities return to new normal.
 This workshop is motivated by three recent advances: a technology driven future; new regulations to combat
 emerging social challenges; and advances in computational sciences.
-
 
 The socio-technological innovations have enabled the generation of a large volume of disparate, dynamic
 and geographically distributed data, thus motivating the creation of smart and connected cities. A smart and
@@ -20,7 +20,6 @@ is imperative for cities to be both resilient and smart so that technologies can
 challenges ranging from climate change, public health, traffic congestion, economic growth, to digital
 divide, social equity, political movements, and cultural conflicts, among others.
 
-
 The COVID-19 pandemic has highlighted the difference between smart and resilient cities more so than
 any other extreme events. For instance, the availability of real-time data and analytics, cloud computing
 and artificial intelligence (AI) enabled the development of dashboards and platforms to help with decision-
@@ -30,14 +29,12 @@ economic stress that every country is facing. The smart city initiatives also ha
 and improve the resilience of the critical infrastructures as well as the heightened need to adapt and mitigate
 climate change impacts while achieving net zero carbon.
 
-
 Intelligent cities and infrastructures need to be planned and designed under the framework of resilience
 such that sensor technologies can aid with real-time knowledge discovery, decision-making, response and
 recovery in the aftermath of extreme events. This essentially requires using big data, artificial
 intelligence/machine learning, high performance computing, edge and cloud computing, interactive
 visualization, simulation and modeling in the context of extreme events to help cities be intelligent and
 resilient. Hence, this workshop fits the general theme of ACM SIGSPATIAL.
-
 
 Following the successes of the last four ARIC workshops held at ACM SIGSPATIAL Conferences between
 2018 and 2021, the vision of the post-COVID world, and the global agenda for a net-zero economy, the 5th
@@ -49,8 +46,8 @@ researchers, practitioners from academia, public and private sector, and nationa
 disciplines to address the state-of-the-art techniques/methods, limitations and challenges for next generation
 cities and infrastructures.
 
-
 ### Call for papers
+
 The ARIC 2022 workshop invites papers in the following topics (but not limited to):
 
 • AI/ML driven solutions to assess and model resilience
@@ -66,6 +63,7 @@ The ARIC 2022 workshop invites papers in the following topics (but not limited t
 ● Network modeling, logistics and mobility analysis to quantify resilience
 
 ### Format
+
 The 5th International workshop on Advances on Resilient and Intelligent Cities will be a one-day event that
 will include two keynotes (one in the morning and one in the afternoon), individual paper presentations,
 and a panel. The following submissions will be invited for this workshop.
@@ -80,6 +78,7 @@ All papers will be peer-reviewed to ensure the quality and clarity of the resear
 three best paper awards will be announced at the end of the workshop.
 
 ### Anticipated Target Group
+
 The anticipated target group will include researchers and practitioners from academia, industry, policy
 institutions and national laboratories. Given their collective experience in smart and resilient city
 research, the workshop organizers are in a unique position to identify, invite and engage the target group
@@ -109,7 +108,7 @@ Olufemi A. Omitaomu, Oak Ridge National Laboratory (omitaomuoa@ornl.gov)
 
 ### Program Committee
 
-Hussain	Aziz, Kansas State University 
+Hussain Aziz, Kansas State University
 
 Yao-yi Chiang, University of Southern California
 
@@ -134,6 +133,7 @@ Yao Yao, China University of Geosciences
 Lei Zou, Texas A & M
 
 ### Point of Contact
+
 Dr. Bandana Kar,
 
 Oak Ridge National Laboratory
@@ -145,6 +145,5 @@ Email: karb@ornl.gov
 Phone: +1-865-576-3717
 
 Fax: +1-865-241-6261
-
 
 @copyright ACM SIGSPATIAL
