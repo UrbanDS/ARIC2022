@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01475ab0-f20f-4be0-ac76-67294ec66c95" name="Default Changelist" comment="update logo">
+    <list default="true" id="01475ab0-f20f-4be0-ac76-67294ec66c95" name="Default Changelist" comment="change one affiliation to this - AAAS Science, Technology and Policy Fellow; Department of Energy - Building Technology Office.">
+      <change afterPath="$PROJECT_DIR$/ARIC2022_Keynote1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARIC2022_Keynote2.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +85,16 @@
       <workItem from="1654654672836" duration="789000" />
       <workItem from="1655316453195" duration="1308000" />
       <workItem from="1659535887304" duration="671000" />
+      <workItem from="1659560182028" duration="805000" />
+      <workItem from="1660680206806" duration="919000" />
+      <workItem from="1661280747722" duration="967000" />
+      <workItem from="1661302365720" duration="56000" />
+      <workItem from="1661359140376" duration="293000" />
+      <workItem from="1661368666577" duration="127000" />
+      <workItem from="1661983184413" duration="187000" />
+      <workItem from="1662054024572" duration="252000" />
+      <workItem from="1662309399818" duration="40000" />
+      <workItem from="1666203475288" duration="1784000" />
     </task>
     <task id="LOCAL-00001" summary="add file">
       <created>1623712631916</created>
@@ -244,7 +257,56 @@
       <option name="project" value="LOCAL" />
       <updated>1659535961438</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="empty workshop">
+      <created>1659560389917</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1659560389917</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update committees and dates">
+      <created>1660681043478</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1660681043478</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update committees and formats">
+      <created>1661281102943</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1661281102943</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update committees">
+      <created>1661359276936</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1661359276936</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update committees">
+      <created>1661368773302</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1661368773302</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Paper submission (extended)">
+      <created>1661983311313</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1661983311313</updated>
+    </task>
+    <task id="LOCAL-00030" summary="change one affiliation to this - AAAS Science, Technology and Policy Fellow; Department of Energy - Building Technology Office.">
+      <created>1662054251658</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1662054251658</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +338,12 @@
     <MESSAGE value="update for 2022" />
     <MESSAGE value="update time for 2022" />
     <MESSAGE value="update logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="update logo" />
+    <MESSAGE value="empty workshop" />
+    <MESSAGE value="update committees and dates" />
+    <MESSAGE value="update committees and formats" />
+    <MESSAGE value="update committees" />
+    <MESSAGE value="Paper submission (extended)" />
+    <MESSAGE value="change one affiliation to this - AAAS Science, Technology and Policy Fellow; Department of Energy - Building Technology Office." />
+    <option name="LAST_COMMIT_MESSAGE" value="change one affiliation to this - AAAS Science, Technology and Policy Fellow; Department of Energy - Building Technology Office." />
   </component>
 </project>
