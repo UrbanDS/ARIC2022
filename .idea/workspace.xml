@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01475ab0-f20f-4be0-ac76-67294ec66c95" name="Default Changelist" comment="change one affiliation to this - AAAS Science, Technology and Policy Fellow; Department of Energy - Building Technology Office.">
-      <change afterPath="$PROJECT_DIR$/ARIC2022_Keynote1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ARIC2022_Keynote2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +91,7 @@
       <workItem from="1661983184413" duration="187000" />
       <workItem from="1662054024572" duration="252000" />
       <workItem from="1662309399818" duration="40000" />
-      <workItem from="1666203475288" duration="1784000" />
+      <workItem from="1666203475288" duration="2083000" />
     </task>
     <task id="LOCAL-00001" summary="add file">
       <created>1623712631916</created>
@@ -306,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662054251658</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="change one affiliation to this - AAAS Science, Technology and Policy Fellow; Department of Energy - Building Technology Office.">
+      <created>1666205622467</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1666205622467</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
